@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danisvaliev001
-- 👀 I’m interested in developing.
-- 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on developing some AI app (in CV for example)
+- 👀 I’m interested in human and AI startups.
+- 🌱 I’m currently learning SCRUM.
+- 💞️ I’m looking to collaborate on creating some AI startup.
 - 📫 You can find me on Telegram: @danisvaliev001
 
 <!---
