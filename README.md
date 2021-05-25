@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danisvaliev001
 - 👀 I’m interested in human, AI and startups.
 - 🌱 I’m currently learning SCRUM and Deepfake. I have experience in business.
-- 💞️ I’m looking to be founder some AI startup.
+- 💞️ I’m looking to be founder own AI startup.
 - 📫 You can find me on Telegram: @danisvaliev001
 
 <!---
