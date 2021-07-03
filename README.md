@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danis Valiev
+- 👋 Hi, I’m Danis Valiev.
 - 👀 I’m interested in programming, human and AI-startups.
 - 🌱 I’m currently learning Podman.
 - 💞️ I’m looking to be founder my own AI startup. 0oO!
