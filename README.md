@@ -1,6 +1,6 @@
 - 👋 hi, I’m Danis Valiev.
 - 👀 I’m interested in Technology, Entrepreneurship and Design.
-- 🌱 I’m currently learning DevOps, DevSecOps and MLOps.
+- 🌱 I’m currently learning and professional in DevOps and SRE, also i am interested in DevSecOps and MLOps.
 - 💞️ I’m looking to startups for accelerate them via DevOps!
 - 📫 you can find me in Telegram: @danisvaliev001
 
