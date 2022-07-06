@@ -1,6 +1,6 @@
 - 👋 hi, I’m Danis Valiev.
 - 👀 I’m interested in Technology, Entrepreneurship and Design.
-- 🌱 I’m professional at DevOps engineering (that also include DevSecOps and MlOps) and SRE.
+- 🌱 I’m professional at DevOps engineering and Big Data.
 - 💞️ I’m looking to startups for accelerate them via DevOps!
 - 📫 you can find me in Telegram: @danisvaliev001
 
