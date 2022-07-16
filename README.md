@@ -1,7 +1,7 @@
 👋 hi, my name is Danis Valiev.  
 👨‍💻 interested in Technology, Entrepreneurship and Design.  
 🥷 professional at DevOps, including DevSecOps and SRE.  
-💞️ looking to startups for accelerate them via DevOps practices!  
+🚁 looking to startups for accelerate them via DevOps practices!  
 🗣️ you can find me in Telegram: [@danisvaliev001](https://t.me/danisvaliev001).  
 
 my blog posts:
