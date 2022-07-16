@@ -1,4 +1,4 @@
-👋 i am Danis Valiev.  
+👋 hello, i am Danis Valiev.  
 👨‍💻 i am interested in Technology, Entrepreneurship and Design.  
 🥷 i am professional at DevOps, including DevSecOps and SRE.  
 🚁 i am looking to startups for accelerate them via DevOps practices!  
