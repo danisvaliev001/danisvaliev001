@@ -1,8 +1,8 @@
 👋 hi, I’m Danis Valiev.  
 👀 I’m interested in Technology, Entrepreneurship and Design.  
-🌱 I’m professional at DevOps Engineering, including DevSecOps and SRE.  
+🥷 I’m professional at DevOps Engineering, including DevSecOps and SRE.  
 💞️ I’m looking to startups for accelerate them via DevOps practices!  
-📫 you can find me in Telegram: @danisvaliev001  
+📫 you can find me in Telegram: [@danisvaliev001](https://t.me/danisvaliev001).  
 
 my blog posts:
 - [how to install any terraform version to MacOS with Apple Silicon M1 chip.](https://gitlab.com/danisvaliev001/m1-terraform)
