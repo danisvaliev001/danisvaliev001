@@ -1,4 +1,5 @@
-👋 hello, i am Danis Valiev.  
+👋 hello,  
+👨‍💻 i am Danis Valiev,  
 🥷 i am professional at DevOps engineering.  
 🤝 find me in Telegram: [@danisvaliev001](https://t.me/danisvaliev001)  
 
