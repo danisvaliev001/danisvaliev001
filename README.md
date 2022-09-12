@@ -7,7 +7,7 @@
 + LinkedIn: [danisvaliev001](https://www.linkedin.com/in/danisvaliev001/)
 
 
-my current opensource project:  
+current opensource project i am working on:  
 [a new era of summaring](https://github.com/danisvaliev001/lamark)
 
 
