@@ -1,7 +1,7 @@
 👋 hello,  
 
 🙂 i am Danis Valiev,  
-🥷 i am professional at DevOps/Data,  
+💻 i am professional at DevOps/Data,  
 👨‍💻 my current opensource project: [lamark](https://github.com/danisvaliev001/lamark).
 
 + Telegram: [@danisvaliev001](https://t.me/danisvaliev001)  
