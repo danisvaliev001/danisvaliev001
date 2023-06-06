@@ -1,6 +1,6 @@
-👋 here I am,  
+👋 here i am,  
 
-🙂 I am Danis Valiev,  
+🙂 i am Danis Valiev,  
 🥷 SRE,  
 👨‍💻 my current pet project: [lamark](https://github.com/danisvaliev001/lamark).
 
