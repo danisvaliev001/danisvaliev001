@@ -1,8 +1,4 @@
-👋 here i am,  
+🐕 bringing X's through DevOps as an SRE  
 
-🙂 i am Danis Valiev,  
-🥷 SRE,  
-👨‍💻 my current pet project, doing for fun (non-tech): [lamark](https://github.com/danisvaliev001/lamark).
-
-+ Telegram: [@danisvaliev001](https://danisvaliev001.t.me)  
-+ LinkedIn: [danisvaliev001](https://www.linkedin.com/in/danisvaliev001/)
+telegram: [@danisvaliev001](https://danisvaliev001.t.me)  
+linkedIn: [danisvaliev001](https://www.linkedin.com/in/danisvaliev001/)
